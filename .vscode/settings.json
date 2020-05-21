@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "*.ipp": "c",
+        "array": "c",
+        "hash_map": "c",
+        "bitset": "c",
+        "string_view": "c",
+        "initializer_list": "c",
+        "utility": "c",
+        "valarray": "c"
+    }
+}
